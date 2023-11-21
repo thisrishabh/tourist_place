@@ -1,0 +1,29 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+*{
+  font-family: 'Croissant One', cursive;
+}
+
+h1{
+  font-family: 'Croissant One', cursive;
+  color:green;
+}
+.nav-item{
+  font-family: 'Croissant One', cursive;
+  
+
+}
+.navbar-brand{
+    font-size: 2.5rem;
+  }
+  
+  .navbar-nav Link{
+    font-size: 1.5rem;
+  }
+  .navbar{
+    margin-bottom: 20px;
+  }
+  .d-flex{
+    margin-left: 80px;
+  }

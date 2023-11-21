@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+.bg{
+    background-color: #FBFBFB;
+}
+
+.card{
+    width:18rem;
+    margin:20px auto;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap:45px;
+    
+}
+.card-body{
+    background-color: #DDFAF1;
+}
+.card .btn{
+    background-color: #FF0013;
+}
+
+
+.navlink{
+    text-decoration:none ;
+    color:black;
+    
+    
+}
+.navlink:hover{
+    color:green;
+    
+}
+h5{
+    font-family: 'Croissant One', cursive;
+}
+img{
+    width: 286.4px;
+    height: 170.4px;
+}
